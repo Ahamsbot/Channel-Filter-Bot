@@ -5,4 +5,4 @@ SESSION      = "BQFyXA4ATVqJWuxQtfwg4D5YEaqlz8ZZZrXIsxYclIhH2ho87TVBp1uMVp5x1K7X
 DATABASE_URI = "mongodb+srv://thmbusiness7800:Aham7800@cluster0.smshu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 LOG_CHANNEL  = -1002280938282
 ADMIN        = 1750182389
-CHANNEL      = "@Ahams_robot"
+CHANNEL      = "@Aham_robot"
