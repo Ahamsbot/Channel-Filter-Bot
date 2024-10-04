@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
-CHANNEL      = "@GreyMatter_Bots"
+API_ID       = 24271886
+API_HASH     = "21cf9147791bd7a046e57c1a240dd9af"
+BOT_TOKEN    = "8053883469:AAHsx9nYbU8eowSFP6ZQ4waPCVwlgTXZPxs"
+SESSION      = "BQFyXA4ATVqJWuxQtfwg4D5YEaqlz8ZZZrXIsxYclIhH2ho87TVBp1uMVp5x1K7XpDPee1HHA2yS4QmCMGN0XwyCRXKCyt9-JtPKlBWqfgWWi_jJtZDVX8Dnppg4XW5G72tRVf9-anV_XLkwPylYIjKUia96w_4am7ZGL5BjsY6BnTaJGk4IQa1XjgMjpEzEggzBdf2midUR-5LISBU_XB_R4Osb8nNjbAhGBx5RHQWEiWvZSsLsPiPZrZEMnDeUp9vwxzh16zrl-DmDbgprTHkpl2QEfk-QMfSFQAtw8ufeGEQtkGY5yMoznon9OoDhuluIxCaLPtHjHAjXO5JVkKTN8dHfuAAAAAHgDIJNAQ"
+DATABASE_URI = "mongodb+srv://thmbusiness7800:Aham7800@cluster0.smshu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+LOG_CHANNEL  = -1002355961180
+ADMIN        = 1750182389
+CHANNEL      = "@Ahams_robot"
